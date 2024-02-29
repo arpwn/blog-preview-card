@@ -28,34 +28,24 @@ Responsive
 ![](./solutions/Mobile.jpeg)
 
 ### Links
-- Solution URL: [https://www.frontendmentor.io/]
-- Live Site URL: [https://advice-generator-seven.vercel.app/]
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-using-html-and-css-_m2D6Cpxrz]
+- Live Site URL: [https://blog-preview-card-ten-delta.vercel.app/]
 
 ## My process
 
 ### Built with
--
--
--
+- HTML & CSS
 
 ### What I learned
-Description and code snippets
-```js
-```
+To use this property
 
 ```css
+    box-shadow: 10px 10px 0px hsl(0, 0%, 7%);
 ```
-
-### Continued development
-Description
--
--
--
 
 ### Useful resources
 
-- [Resource 1](https://resource1.com) - Description.
-- [Resource 2](https://resource2.com) - Description.
+- [Resource 1](https://developer.mozilla.org/es/docs/Web/CSS/box-shadow) - box shadow property.
 
 ## Author
 
