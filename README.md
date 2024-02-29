@@ -11,32 +11,36 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
 ### The challenge
-Pelicate the card
+
+Replicate the card
 
 ### Screenshot
-Desktop version
-![](./solutions/Desktop.jpeg)
 
-Responsive
-![](./solutions/Mobile.jpeg)
+Desktop version
+![Desktop version](./solutions/Desktop.jpeg)
+
+Mobile version
+![Mobile version](./solutions/Mobile.jpeg)
 
 ### Links
+
 - Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-using-html-and-css-_m2D6Cpxrz]
 - Live Site URL: [https://blog-preview-card-ten-delta.vercel.app/]
 
 ## My process
 
 ### Built with
+
 - HTML & CSS
 
 ### What I learned
+
 To use this property
 
 ```css
